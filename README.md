@@ -1,5 +1,9 @@
 # SurfsUp_Analysis
 
+## Overview
+
+While vacationing in Hawaii, the idea of living there came up. In order to make it become a fullproof plan, a business is required. A Surf and Shake shop serving surfboards and ice cream to locals and tourists could be the way to do it. There are some initial savings that could help get this plan going, however further investments are needed. W. Avy is a potential investor, who is famous for his love of surfing. W. Avy is interested, yet is concerned with the weather. Based on his past experiences, he had set up a similar store, yet had not researched weather patterns, and was rained out of existence. W. Avy has asked if weather data anslysis can be conducted from the very island he is from, Awahoo, and has provided the necessary data.
+
 ## Deliverable 1: Determine the Summary Statistics for June
 
 A query was written to filter through the 'Measurement' table, in the 'hawaii.sqlite' database, to retrieve all the temperatures for the month of June. It utilized the extract function by determining that we are looking for the sixth month specifically.
